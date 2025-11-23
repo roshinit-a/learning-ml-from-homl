@@ -1,9 +1,10 @@
-# learning-ml-from-homl
-# 🤖 Learning Machine Learning with *Hands-On ML*
+## 🔥 Welcome to my personal journey  
+**Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition)** by Aurélien Géron — a deep dive into the world of machine learning using real-world tools, practical examples, and clean code.
 
-Welcome to my personal journey through **Hands-On Machine Learning (3rd Edition)** by Aurélien Géron — a deep dive into the world of machine learning using real-world tools, practical examples, and clean code.
+[![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-This repository is my living notebook: a place where I explore, experiment, document, and grow as a machine learning engineer.
+<a href="https://homl.info/er"><img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/400w/" title="book" width="150" border="0" /></a>
 
 ---
 
@@ -36,7 +37,7 @@ By systematically going through this book, I aim to:
 
 ## 🚀 Technologies Used
 
-- 🐍 **Python 3.10+**
+- 🐍 **Python 3.11**
 - 📓 **Jupyter Notebook**
 - 🧮 **NumPy**, **Pandas**
 - 📊 **Matplotlib**, **Seaborn**
